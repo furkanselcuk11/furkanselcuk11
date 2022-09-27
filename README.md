@@ -12,8 +12,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffurkanselcuk44)](https://twitter.com/furkanselcuk44)
 
 ---
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=furkanselcuk11&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=furkanselcuk11&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=furkanselcuk11&show_icons=true&theme=gradient)
 
 <!--
 **furkanselcuk11/furkanselcuk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
