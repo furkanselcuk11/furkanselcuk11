@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Furkan
 
 #### A Software Engineer in living in Turkey for now!
-- 🔭 I’m currently working on Hyper Casual game projects.
-- 🌱 I’m currently learning Personal Management and Unity Engine.
+- 🔭 I’m currently working on **Hyper Casual** game projects.
+- 🌱 I’m currently learning **Personal Management** and **Unity Engine**.
 - 💬 Ask me about my projects.
-- 📫 How to reach me: furkanselcuk11@gmail.com
+- 📫 How to reach me: **furkanselcuk11@gmail.com**
 ---
 ### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/furkanselcuk11/furkanselcuk11) 
